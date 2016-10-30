@@ -1,0 +1,4 @@
+<?php $budget = ""; if( isset( $data['title'] ) && $data['title'] )$budget = $data['title']; ?>
+<?php $budget_id = ""; if( isset( $data['budget_id'] ) && $data['budget_id'] )$budget_id = $data['budget_id']; ?>
+<a href="#" budget-id="<?php echo $budget_id; ?>" month-id="-" function-id="1" function-class="budget" function-name="add_new_budget" class="btn btn-success btn-sm custom-action-button">Add New Record</a>
+<a href="#" function-id="1" function-class="budget" function-name="edit" mod="edit-<?php echo md5("budget"); ?>" module="" class="btn btn-success btn-sm custom-single-selected-record-button" todo="edit" action="?module=&action=budget&todo=edit">Edit Record</a>

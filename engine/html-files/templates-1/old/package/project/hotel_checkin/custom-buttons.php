@@ -1,0 +1,2 @@
+<!--<a href="#" class="custom-single-selected-record-button btn btn-sm green" action="?module=&action=hotel_checkin&todo=update_hotel_checkin_status" title="Change Check In Details">Edit Details</a>-->
+<a href="#" class="btn red btn-sm custom-single-selected-record-button" action="?module=&action=hotel_checkin&todo=view_invoice&hide=1" title="View Invoice">View Invoice / Receipt</a>

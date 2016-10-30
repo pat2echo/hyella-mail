@@ -1,0 +1,1 @@
+<?php include dirname( dirname( __FILE__ ) ) . "/globals/modal-box.php"; ?>

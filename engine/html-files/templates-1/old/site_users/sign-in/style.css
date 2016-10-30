@@ -1,0 +1,11 @@
+.control-group{
+	margin-top:5px;
+	margin-bottom:10px;
+	clear:both;
+}
+
+.control-group.col-md-6{
+	padding-left:0;
+	padding-right:0;
+}
+form .form-box .input-row{ width:100% !important; clear:both !important; }

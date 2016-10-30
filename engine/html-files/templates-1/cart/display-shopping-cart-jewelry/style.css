@@ -1,0 +1,135 @@
+.line-item-sep{
+	margin:5px 0;
+}
+.portlet{
+	margin-bottom:5px;
+}
+.item-container{
+    border: 1px solid #4D90FE;
+    margin-right: 10px;
+    margin-left: -15px;
+    background: #4D90FE;
+}
+.stock-item .badge{
+    font-size: 12px;
+    height: 26px;
+    /* font-weight: 600; */
+    padding: 5px 8px;
+}
+.item-image-1{
+border-bottom:1px solid #ddd;text-align: center;padding: 8px;background: #fff;
+}
+.item-image-1 img{
+	max-width:100%;
+	height:45px;
+}
+.item-title{
+   color: #555;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 5px;
+    white-space: nowrap;
+	font-weight:600;
+	text-overflow:ellipsis;
+	overflow:hidden;
+}
+.item-price{
+   color:#A7E862;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 5px;
+	font-weight:600;
+    white-space: nowrap;
+}
+#stocked-items{
+	margin-left:0;
+	margin-right:0;
+}
+#stocked-items  .stock-item{
+	border:1px solid #eee;
+	cursor:pointer;
+}
+a.item{
+	background:#e5e5e5;
+	margin-right:5px;
+}
+a.item.active,
+a.item:hover{
+	background:#333;
+}
+a.item.active .item-title,
+a.item:hover .item-title{
+	color:#eee;
+}
+#item-edit-template,
+#barcode-container,
+#discount-container{
+	display:none;
+}
+.shopping-cart-table thead th{
+	font-size:12px;
+}
+.shopping-cart-table tfoot th{
+	font-size:14px;
+}
+
+.shopping-cart-table tfoot th,
+.shopping-cart-table thead th{
+	background:#A7E862;
+}
+th.r,
+td.r{
+text-align:right;
+}
+th.c,
+td.c{
+text-align:center;
+}
+
+.shopping-cart-table .table-striped > tbody > tr:nth-child(even) > td, .table-striped > tbody > tr:nth-child(even) > th{
+	background:#DEF7C4;
+}
+.shopping-cart-table .table-striped > tbody > tr:nth-child(odd) > td, .table-striped > tbody > tr:nth-child(odd) > th{
+	background:#f9f9f9;
+}
+#stock-view .nav a{
+	font-size:14px;
+	font-weight:600;
+}
+#stock-view .nav .active a{
+	color:#333 !important;
+}
+ul.qq-upload-list{
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+a.cart-item-select{
+	text-decoration:none;
+}
+
+#cart-checkout-container .checkbox-list{
+    background: #E5E5E5;
+    padding: 6px 10px;
+}
+#cart-checkout-container .checkbox-list label{
+    line-height: 27px;
+}
+#cart-checkout-container .checkbox-list input[type="checkbox"]{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    float: left;
+}
+.quantity-select{
+	float:right;
+	margin-top: 0px;
+    margin-right: -15px;
+	font-size:10px;
+}
+#appraisal-container,
+#catalogue-container{
+	background:#f1f1f1;
+	padding:15px;
+	margin-top:10px;
+}

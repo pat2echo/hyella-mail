@@ -1,0 +1,1 @@
+<a href="#" class="btn red btn-sm custom-single-selected-record-button" action="?module=&action=expenditure&todo=view_invoice" title="View Details">View Details</a>

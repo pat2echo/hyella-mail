@@ -1,0 +1,2 @@
+<a href="#" class="btn red btn-sm custom-single-selected-record-button" action="?module=&action=newsletter_message&todo=display_message_view" title="View Message">Edit Newsletter</a>
+<a href="#" class="btn red btn-sm custom-single-selected-record-button" action="?module=&action=newsletter_message&todo=display_send_message" title="View Message">Send Newsletter</a>

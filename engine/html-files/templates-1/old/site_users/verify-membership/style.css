@@ -1,0 +1,13 @@
+.control-group{
+	margin-top:5px;
+	margin-bottom:10px;
+}
+
+.control-group.col-md-2,
+.control-group.col-md-12,
+.control-group.col-md-4,
+.control-group.col-md-6{
+	padding-left:0;
+	padding-right:4px;
+	/*padding-right:0;*/
+}

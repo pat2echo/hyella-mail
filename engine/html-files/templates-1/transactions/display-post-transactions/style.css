@@ -1,0 +1,65 @@
+code.green{
+	color:#376b00;
+}
+.s2-wrapper{
+	clear:both;
+	width:100%;
+}
+.s2-wrapper .select2{
+	display:block !important;
+}
+.s2-account-select-2,
+.s2-account-select-3{
+	display:none;
+}
+.portlet{
+	margin-bottom:5px;
+}
+#data-entry-form-container {
+	
+}
+#data-entry-form-container label{
+	font-size:10px;
+	font-weight:600;
+}
+#data-entry-form-container h3{
+	font-size:12px !important;
+	font-weight:600;
+	margin-top:0;
+}
+.shopping-cart-table thead th{
+	font-size:12px;
+}
+.shopping-cart-table tbody td{
+	font-size:12px;
+}
+.shopping-cart-table tfoot th{
+	font-size:14px;
+}
+
+.shopping-cart-table tfoot th,
+.shopping-cart-table thead th{
+	background:#A7E862;
+}
+th.r,
+td.r{
+text-align:right;
+}
+th.c,
+td.c{
+text-align:center;
+}
+
+.shopping-cart-table .table-striped > tbody > tr:nth-child(even) > td, .table-striped > tbody > tr:nth-child(even) > th{
+	background:#DEF7C4;
+}
+.shopping-cart-table .table-striped > tbody > tr:nth-child(odd) > td, .table-striped > tbody > tr:nth-child(odd) > th{
+	background:#f9f9f9;
+}
+
+.allow-scroll-1{
+	max-height:450px; overflow-y:auto; overflow-x:hidden; padding-bottom:20px;
+}
+.allow-scroll{
+	max-height:500px; overflow-y:auto; overflow-x:hidden; padding-bottom:20px;
+}

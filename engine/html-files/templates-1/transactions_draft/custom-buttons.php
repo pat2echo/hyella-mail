@@ -1,0 +1,3 @@
+<a href="#" class="btn green btn-sm custom-single-selected-record-button" action="?module=&action=transactions_draft&todo=post_draft_transaction" title="View Details">Post Draft(s)</a>
+<a href="#" class="btn red btn-sm custom-single-selected-record-button" action="?module=&action=transactions_draft&todo=view_invoice" title="View Details">View Details</a>
+<!--<a href="#" class="btn green btn-sm custom-single-selected-record-button" action="?module=&action=transactions&todo=delete_transactions_manifest" title="Delete Record">Delete Record</a>-->

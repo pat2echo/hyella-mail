@@ -1,0 +1,2 @@
+<a href="#" class="btn dark btn-sm custom-action-button" function-id="1" function-class="pay_row" function-name="auto_generate_form" title="Roll Over Previous Month Info to Auto Generate Salary">Auto Generate</a>
+<a href="#" class="btn red btn-sm custom-action-button" function-id="1" function-class="pay_row" function-name="view_pay_slip_schedule" title="View Pay Slips / Schedule">Pay Slips | Schedule</a>

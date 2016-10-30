@@ -1,0 +1,2 @@
+<a href="#" class="btn red btn-sm custom-single-selected-record-button" action="?module=&action=expenditure&todo=capture_payment_form" title="Capture Payment">Capture Payment</a>
+<a href="#" class="btn red btn-sm custom-single-selected-record-button" action="?module=&action=expenditure&todo=view_invoice" title="View Purchase Order">View Purchase Order</a>

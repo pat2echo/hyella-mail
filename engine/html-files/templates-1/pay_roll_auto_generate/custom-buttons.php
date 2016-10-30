@@ -1,0 +1,1 @@
+<a href="#" class="btn dark btn-sm custom-action-button" function-id="1" function-class="pay_row" function-name="auto_generate_form" title="Auto Generate Salary">Auto Generate</a>

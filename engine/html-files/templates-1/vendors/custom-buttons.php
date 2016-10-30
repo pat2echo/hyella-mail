@@ -1,0 +1,1 @@
+<a href="#" class="btn red btn-sm custom-single-selected-record-button" action="?module=&action=vendors&todo=view_vendor_details" title="View Transactions">View Transactions</a>

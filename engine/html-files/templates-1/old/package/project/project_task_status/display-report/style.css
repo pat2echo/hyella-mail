@@ -1,0 +1,34 @@
+#tree-view-selector-container{
+	overflow-x:auto;
+}
+.line-item-sep{
+	margin:5px 0;
+}
+.portlet{
+	margin-bottom:5px;
+}
+#data-entry-form-container {
+	
+}
+#data-entry-form-container label{
+	font-size:10px;
+	font-weight:600;
+}
+#data-entry-form-container h3{
+	font-size:12px !important;
+	font-weight:600;
+	margin-top:0;
+}
+td.indent{
+	padding-left:30px !important;
+}
+td.indent-1{
+	padding-left:60px !important;
+}
+td.item-desc{
+	border-left:none !important;
+}
+td.item-amount{
+	width:120px;
+	text-align:right;
+}

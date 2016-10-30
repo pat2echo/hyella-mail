@@ -1,0 +1,8 @@
+.form-control-table table thead tr th,
+			.form-control-table table{
+				font-size:0.9em;
+			}
+			.form-control-table table tr th{
+				background-color:#CCFFD2;/*#f4ccFF*/
+				font-weight:bold;
+			}

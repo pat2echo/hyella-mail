@@ -1,0 +1,10 @@
+#tree-view-selector-container{
+	overflow-x:auto;
+}
+#comment-box-container,
+.popover-title{
+	color:#333;
+}
+.popover-title{
+	font-weight:600;
+}
